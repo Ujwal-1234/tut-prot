@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tut-prot/static/css/main.f869bd91.css",
+    "main.js": "/tut-prot/static/js/main.6aa1fb40.js",
+    "index.html": "/tut-prot/index.html",
+    "main.f869bd91.css.map": "/tut-prot/static/css/main.f869bd91.css.map",
+    "main.6aa1fb40.js.map": "/tut-prot/static/js/main.6aa1fb40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f869bd91.css",
+    "static/js/main.6aa1fb40.js"
+  ]
+}
